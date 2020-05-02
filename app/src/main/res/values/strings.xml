@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DO-UBLE</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Ana Ekran</string>
+    <string name="title_bagis">Bağış Yap</string>
+    <string name="title_funds">Bağışlarım</string>
+
+    <string name="bagis_neden">Nedeni</string>
+    <string name="bagis_miktar">Gereken Miktar</string>
+    <string name="bagis_olustur">Oluştur</string>
+</resources>
